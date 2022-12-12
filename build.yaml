@@ -28,4 +28,7 @@ include:
   - board: nrfmicro_13
     shield: [corne_left, corne_right, settings_reset] 
   - board: [dao_left, dao_right]
+  - board: nice_nano_v2
+    shield: settings_reset  
+
   # - board: [wenki44_left, wenki44_right]
